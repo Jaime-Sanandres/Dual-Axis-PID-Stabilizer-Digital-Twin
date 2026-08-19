@@ -4,7 +4,6 @@
 ![Hardware](https://img.shields.io/badge/Hardware-Arduino_Uno-blue)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-yellow)
 
-> **Note:** [Insert an image or GIF here showing the physical platform moving alongside the 3D Digital Twin]
 
 A complete hardware and software engineering project that actively stabilizes a 2-axis platform (Pan-Tilt) using an MPU6050 sensor, and streams real-time telemetry to a 3D Digital Twin running on a PC. 
 
